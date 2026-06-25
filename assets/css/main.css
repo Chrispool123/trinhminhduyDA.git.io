@@ -273,7 +273,7 @@ input, select, textarea {
 			width: 100%;
 		}
 
-		@media screen and (max-width: auto) {
+		@media screen and (max-width: 980px) {
 
 			.container {
 				width: 100% !important;
@@ -282,7 +282,7 @@ input, select, textarea {
 
 		}
 
-		@media screen and (max-width: auto) {
+		@media screen and (max-width: 480px) {
 
 			.container {
 				max-width: calc(100% - 3em);
@@ -533,7 +533,7 @@ input, select, textarea {
 					padding-top: 5em;
 				}
 
-		@media screen and (max-width: auto) {
+		@media screen and (max-width: 1800px) {
 
 			.row {
 				display: flex;
@@ -778,7 +778,7 @@ input, select, textarea {
 
 		}
 
-		@media screen and (max-width: auto) {
+		@media screen and (max-width: 1280px) {
 
 			.row {
 				display: flex;
@@ -1023,7 +1023,7 @@ input, select, textarea {
 
 		}
 
-		@media screen and (max-width: auto) {
+		@media screen and (max-width: 980px) {
 
 			.row {
 				display: flex;
@@ -1268,7 +1268,7 @@ input, select, textarea {
 
 		}
 
-		@media screen and (max-width: auto) {
+		@media screen and (max-width: 736px) {
 
 			.row {
 				display: flex;
@@ -1513,7 +1513,7 @@ input, select, textarea {
 
 		}
 
-		@media screen and (max-width: auto) {
+		@media screen and (max-width: 480px) {
 
 			.row {
 				display: flex;
@@ -2310,7 +2310,7 @@ input, select, textarea {
 				width: 100%;
 			}
 
-		@media screen and (max-width: auto) {
+		@media screen and (max-width: 480px) {
 
 			ul.actions:not(.fixed) {
 				-moz-flex-direction: column;
@@ -2980,7 +2980,7 @@ input, select, textarea {
 
 /* XLarge */
 
-	@media screen and (max-width: auto) {
+	@media screen and (max-width: 1800px) {
 
 		/* Basic */
 
@@ -2992,7 +2992,7 @@ input, select, textarea {
 
 /* Large */
 
-	@media screen and (max-width: auto) {
+	@media screen and (max-width: 1280px) {
 
 		/* Header */
 
@@ -3036,7 +3036,7 @@ input, select, textarea {
 
 /* Medium */
 
-	@media screen and (max-width: auto) {
+	@media screen and (max-width: 980px) {
 
 		/* Basic */
 
@@ -3118,7 +3118,7 @@ input, select, textarea {
 
 /* Small */
 
-	@media screen and (max-width: auto) {
+	@media screen and (max-width: 736px) {
 
 		/* Basic */
 
@@ -3196,7 +3196,7 @@ input, select, textarea {
 
 /* XSmall */
 
-	@media screen and (max-width: auto) {
+	@media screen and (max-width: 480px) {
 
 		/* Header */
 
